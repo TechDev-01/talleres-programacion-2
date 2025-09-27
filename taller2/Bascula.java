@@ -1,3 +1,5 @@
+package taller2;
+
 public class Bascula {
     double IMC;
     double calcularIMC(double peso, double altura) {

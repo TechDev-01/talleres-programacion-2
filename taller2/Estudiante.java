@@ -1,3 +1,5 @@
+package taller2;
+
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 import javax.swing.JFrame;
